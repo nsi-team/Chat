@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>GifMignon/About_us</title>
+    </head>
 
-You can use the [editor on GitHub](https://github.com/nsi-team/Chat/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+  <body>
+    <form role="search">
+  <div>
+    <input type="search" id="maRecherche" name="q"
+     placeholder="Rechercher sur le site…"
+     aria-label="Rechercher parmi le contenu du site">
+    <button>Rechercher</button>
+  </div>
+</form><img class="project-pic" src="https://data.photofunky.net/output/image/e/b/c/c/ebcc2e/photofunky.gif" style="width: 150px;" />
+<img class="project-pic" src="https://lh3.googleusercontent.com/proxy/yofAII5mRvMyG7wdeik6_me_4N9dKZR4Hjd_-gFUFHSPUxZl7IhCxrntK2BWQU5M2kWUlFT97RHqD2REeZkbXNl7eb6Eq-85Cwxng6ySOMsF" style="width: 150px;" />
+<img class="project-pic" src="https://i.pinimg.com/originals/69/38/bb/6938bbfa836dc4224222da9b619fca0d.gif" style="width: 150px;" />
+<p></p>
+<img class="project-pic" src="https://lh3.googleusercontent.com/proxy/gY13Kx0Kl0CdasjWGZnM6CgpjQguTudxNAOBl0gXIiAd71m34b9NoMKZH2stAZZncFXTRd3ZsOo7smvhc_kYaaQKQsROg6Nyko4VqM5j" style="width: 150px;" />
+<img class="project-pic" src="https://i.pinimg.com/originals/75/55/27/7555277454ce34891ff978acbebeedf4.gif" style="width: 150px;" />
+<img class="project-pic" src="https://data.photofunky.net/output/image/c/a/2/a/ca2abf/photofunky.gif" style="width: 150px;" />
+<p></p>
+<img class="project-pic" src="https://tenor.com/view/hug-love-hi-bye-cat-gif-5848836" style="width: 150px;" />
+<img class="project-pic" src="https://i.pinimg.com/originals/2c/f3/17/2cf3176042c56694b072884eeafb803b.gif" style="width: 150px;" />
+<img class="project-pic" src="http://static.mmzstatic.com/wp-content/uploads/2014/03/myope-chat.gif" style="width: 150px;" />
+<p></p>
+<p></p>
+    <button><a href="https://nsi-team.github.io/GIF_mignon/">Retour à l'acceuil</a></button>
+    <p> </p>
+    <a href="https://nsi-team.github.io/About_us/">About us</a>
+    <p></p>
+    <a href="https://nsi-team.github.io/Help/">Help</a>
+    <p></p>
+    <a href="https://nsi-team.github.io/Contact_Us/">Contact us</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nsi-team/Chat/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
