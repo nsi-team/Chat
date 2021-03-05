@@ -5,14 +5,11 @@
     </head>
 
   <body>
-    <form role="search">
-  <div>
-    <input type="search" id="maRecherche" name="q"
-     placeholder="Rechercher sur le site…"
-     aria-label="Rechercher parmi le contenu du site">
-    <button>Rechercher</button>
-  </div>
-</form><img class="project-pic" src="https://data.photofunky.net/output/image/e/b/c/c/ebcc2e/photofunky.gif" style="width: 150px;" />
+<form>
+<input type="text" id="input" name="input" value="">
+<input type="button" id="bouton" value="Rechercher" onclick="controle()">
+</form>
+<img class="project-pic" src="https://data.photofunky.net/output/image/e/b/c/c/ebcc2e/photofunky.gif" style="width: 150px;" />
 <img class="project-pic" src="https://lh3.googleusercontent.com/proxy/yofAII5mRvMyG7wdeik6_me_4N9dKZR4Hjd_-gFUFHSPUxZl7IhCxrntK2BWQU5M2kWUlFT97RHqD2REeZkbXNl7eb6Eq-85Cwxng6ySOMsF" style="width: 150px;" />
 <img class="project-pic" src="https://i.pinimg.com/originals/69/38/bb/6938bbfa836dc4224222da9b619fca0d.gif" style="width: 150px;" />
 <p></p>
