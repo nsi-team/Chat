@@ -10,7 +10,7 @@
 <input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
 <img class="project-pic" src="https://data.photofunky.net/output/image/e/b/c/c/ebcc2e/photofunky.gif" style="width: 150px;" />
-<img class="project-pic" src="https://lh3.googleusercontent.com/proxy/yofAII5mRvMyG7wdeik6_me_4N9dKZR4Hjd_-gFUFHSPUxZl7IhCxrntK2BWQU5M2kWUlFT97RHqD2REeZkbXNl7eb6Eq-85Cwxng6ySOMsF" style="width: 150px;" />
+<img class="project-pic" src="https://p7.storage.canalblog.com/79/27/833312/83114448_p.gif" style="width: 150px;" />
 <img class="project-pic" src="https://i.pinimg.com/originals/69/38/bb/6938bbfa836dc4224222da9b619fca0d.gif" style="width: 150px;" />
 <p></p>
 <img class="project-pic" src="https://static.mmzstatic.com/wp-content/uploads/2013/08/gifchat4.gif" style="width: 150px;" />
