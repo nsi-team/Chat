@@ -9,6 +9,7 @@
 <input type="text" id="input" name="input" value="">
 <input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
+<p>Résultat de recherche pour "chat"</p>
 <img class="project-pic" src="https://data.photofunky.net/output/image/e/b/c/c/ebcc2e/photofunky.gif" style="width: 150px;" />
 <img class="project-pic" src="https://p7.storage.canalblog.com/79/27/833312/83114448_p.gif" style="width: 150px;" />
 <img class="project-pic" src="https://i.pinimg.com/originals/69/38/bb/6938bbfa836dc4224222da9b619fca0d.gif" style="width: 150px;" />
